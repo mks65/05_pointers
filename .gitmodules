@@ -46,3 +46,6 @@
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/05-Pointers.git
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/05_pointers.git
