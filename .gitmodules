@@ -31,3 +31,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/05_pointers.git
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/05_pointers_J.git
