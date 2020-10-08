@@ -28,3 +28,6 @@
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/05_pointers
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/05_pointers.git
