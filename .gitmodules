@@ -10,3 +10,6 @@
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/madness.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/05_pointers
