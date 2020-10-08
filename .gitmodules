@@ -22,3 +22,6 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/05_pointers.git
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_05_that-way-madness-lies.git
