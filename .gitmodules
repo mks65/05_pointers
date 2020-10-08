@@ -7,3 +7,6 @@
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/05_pointers.git
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/madness.git
