@@ -40,3 +40,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work05_pointers.git
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work05.git
