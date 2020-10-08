@@ -19,3 +19,6 @@
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_05_pointers.git
+[submodule "shenkerEth"]
+	path = shenkerEth
+	url = https://github.com/ethan-shenker/05_pointers.git
