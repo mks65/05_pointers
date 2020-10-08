@@ -21,7 +21,7 @@
 	url = https://github.com/jku20/mk65_05_pointers.git
 [submodule "shenkerEth"]
 	path = shenkerEth
-	url = https://github.com/ethan-shenker/05_pointers.git
+	url = https://github.com/ethan-shenker/05_pointers_systems.git
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_05_that-way-madness-lies.git
