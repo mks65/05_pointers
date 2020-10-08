@@ -13,3 +13,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/05_pointers
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_05_pointers.git
