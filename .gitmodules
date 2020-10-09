@@ -97,3 +97,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_05_pointers.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/05_pointers.git
