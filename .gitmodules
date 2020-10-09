@@ -106,3 +106,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/05_Pointers.git
+[submodule "liuAli"]
+	path = liuAli
+	url = https://github.com/aliu889/05_pointers_.git
