@@ -109,3 +109,6 @@
 [submodule "liuAli"]
 	path = liuAli
 	url = https://github.com/aliu889/05_pointers_.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/homework5
