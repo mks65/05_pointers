@@ -7,9 +7,6 @@
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/madness.git
-[submodule "huLuc"]
-	path = huLuc
-	url = https://github.com/lhu10/systems_05_pointers.git
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_05_pointers.git
