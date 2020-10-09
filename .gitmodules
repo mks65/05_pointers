@@ -82,3 +82,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-05_pointers.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-05.git
