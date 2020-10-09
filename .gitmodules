@@ -79,3 +79,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/05_work.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-05_pointers.git
