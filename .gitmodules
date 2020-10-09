@@ -100,3 +100,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/05_pointers.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/05_pointers
