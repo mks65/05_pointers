@@ -1,6 +1,3 @@
-[submodule "chenJac"]
-	path = chenJac
-	url = https://github.com/jchen2003/05_pointers.git
 [submodule "05_pointers_vs"]
 	path = siuVic
 	url = https://github.com/vs2961/05_pointers_vs.git
