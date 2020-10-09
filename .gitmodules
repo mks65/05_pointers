@@ -61,3 +61,6 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/05_pointers_zhangAle
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/05_pointers.git
