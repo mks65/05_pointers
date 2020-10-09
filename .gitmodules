@@ -103,3 +103,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/05_pointers
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/mks65/05_pointers.git
