@@ -58,3 +58,6 @@
 [submodule "https:/github.com/mks65/05_pointers"]
 	path = https:/github.com/mks65/05_pointers
 	url = https://github.com/Kappachino-Latte/05_pointers_zhangAle
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/05_pointers_zhangAle
