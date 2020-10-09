@@ -55,3 +55,6 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/05_pointers_mks.git
+[submodule "https:/github.com/mks65/05_pointers"]
+	path = https:/github.com/mks65/05_pointers
+	url = https://github.com/Kappachino-Latte/05_pointers_zhangAle
