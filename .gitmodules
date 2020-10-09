@@ -82,9 +82,6 @@
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/05_pointers_kevidgel.git
-[submodule "haoGan"]
-	path = haoGan
-	url = https://github.com/haotianGan/05_pointers
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/05_pointers_vj.git
