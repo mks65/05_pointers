@@ -64,3 +64,9 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/05_pointers.git
+[submodule "systems_05_pointers"]
+	path = systems_05_pointers
+	url = https://github.com/irao12/systems_05_pointers.git
+[submodule "raoIva"]
+	path = raoIva
+	url = https://github.com/irao12/systems_05_pointers.git
