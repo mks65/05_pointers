@@ -85,3 +85,9 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-05.git
+[submodule "05_pointers_kevidgel"]
+	path = 05_pointers_kevidgel
+	url = https://github.com/kevidgel/05_pointers_kevidgel.git
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/05_pointers_kevidgel.git
