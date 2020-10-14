@@ -112,3 +112,6 @@
 [submodule "haoGan"]
 	path = haoGan
 	url = https://github.com/haotianGan/05_pointers
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
