@@ -91,9 +91,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/05_pointers_mks.git
-[submodule "huLuc"]
-	path = huLuc
-	url = https://github.com/lhu10/systems_05_pointers.git
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/05_pointers.git
@@ -112,3 +109,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/05pointers.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_05_pointers.git
