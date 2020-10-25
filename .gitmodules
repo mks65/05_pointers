@@ -85,9 +85,6 @@
 [submodule "sahaAbh"]
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/05_pointers.git
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/05_Pointers.git
 [submodule "liuAli"]
 	path = liuAli
 	url = https://github.com/aliu889/05_pointers_.git
@@ -109,3 +106,12 @@
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/05_pointers_vj.git
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/05_pointers
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/05_Pointers.git
